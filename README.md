@@ -4,7 +4,7 @@
 This is a PacMan application that allows the viewer to programmatically spawn and animate new PacMan figures with the simple click on an HTML button.
 
 Instructions:
-To load the application click on the following link: https://HeleneBachmann.github.io-Pacman/
+To load the application click on the following link: https://HeleneBachmann.github.io/Pacman-factory/
 To spawn a new PacMan, click on the provided HTML button titled "Add PacMan".
 To animate the PacMan figures, click the provided HTML button titeled "Start Game".
 To reset the game, reset the webpage.
