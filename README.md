@@ -3,6 +3,8 @@
 
 This is a PacMan application that allows the viewer to programmatically spawn and animate new PacMan figures with the simple click on an HTML button.
 
+<br><img src='Pacman.jpg'>
+
 Instructions:
 To load the application click on the following link: https://HeleneBachmann.github.io/Pacman-factory/
 To spawn a new PacMan, click on the provided HTML button titled "Add PacMan".
